@@ -1,3 +1,3 @@
-<?php 
-echo 123111;
+<?php
+
 echo phpinfo();
